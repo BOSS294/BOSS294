@@ -51,8 +51,7 @@ With over a decade immersed in the tech ecosystem, I specialize in engineering s
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </div>
 
-
-
+  <img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/b544a2e9-3fb9-4719-a2b4-d3603bf3a146" />
 
 
 
